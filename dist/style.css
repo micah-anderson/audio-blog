@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;800&display=swap");
+h1,
+h2,
+h3 {
+  font-weight: 700;
+  line-height: 1.1;
+  margin-top: 0;
+}
+
+nav {
+  background-color: #001011;
+}
+
+header {
+  background-color: #586f7c;
+}
+
+.hero-img {
+  height: 600px;
+  width: 900px;
+}/*# sourceMappingURL=style.css.map */

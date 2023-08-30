@@ -1,0 +1,19 @@
+html {
+    box-sizing: border-box;
+    font-size: 100%; // For accesibility purposes: matches website font-size w/ default browser font-size. Defaults to 16px.
+}
+
+*,
+*::before,
+*::after {
+box-sizing: inherit;
+}
+
+
+body {
+    background-color: $arctic-grey;
+    color: $ghost-white-font;
+    font-family: "Inter", sans-serif;
+    margin: 0; //reset rule
+    padding: 0; //reset rule
+}

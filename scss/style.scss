@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;800&display=swap");
+@import 'reset';
+@import 'typography';
+
+$arctic-grey: #2E2E3A;
+$ghost-white-font: #f4f4f9;
+$vivid-sky-blue: #54DEFD;
+$wolf-grey: #586f7c;
+$rich-black: #001011;
+
+nav {
+    background-color: $rich-black;
+}
+
+header {
+    background-color: $wolf-grey;
+}
+
+.hero-img {
+    height: 600px;
+    width: 900px;
+}
